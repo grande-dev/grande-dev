@@ -1,10 +1,10 @@
-I am a Research Fellow at University College London, Mechanical Engineering.  
-Current research interests encompass **computer-aided methods** to synthesise **Lyapunov Functions**, combined with **formal methods** to certify their correctness, and on hardware and onboard software design of **Autonomous Underwater Vehicles**.   
+
+[My personal profile page](https://grande-dev.github.io/) includes research interest, teaching and list of publications. 
   
 ![](https://komarev.com/ghpvc/?username=grande-dev&color=blue&style=flat-square)  
   
 ### Works and public software contributions
-The following list reports public software contributions associated to (a few) published works:
+The following list reports public software contributions associated to (a few) works:
   
 ## 2025  
 7. [IS-sat: an inductive synthesis approach for fault-tolerant control laws](https://github.com/AndreaPuffo/IS-sat) (under-review)  
