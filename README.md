@@ -11,7 +11,7 @@ The following list reports public software contributions associated to (a few) w
   
 6. [OpenMAUVe: a design tool and dynamic simulator for (complex) underwater vehicles  (ongoing 2025-2026)](https://github.com/grande-dev/OpenMAUVe) (published in preliminary version)  
   
-5. [A ROS-based framework for the control of underwater vehicles in a water tank (ongoing 2025-2026)](https://github.com/guobang494/Bluerov2-Heavy-From-Simulation-to-Reality) (unpublished)  
+5. [A ROS-based framework for the control of underwater vehicles in a water tank (ongoing 2025-2026)](https://github.com/guobang494/Bluerov2-Simulation-with-docker-env) (unpublished)  
   
 
 ## 2024  
