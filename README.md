@@ -5,8 +5,14 @@
   
 ### Works and public software contributions
 The following list reports public software contributions associated to (a few) works:
-  
+
+## Constantly updated
+9. [Public datasets](https://github.com/grande-dev/public_datasets) 
+   
+   
 ## 2026  
+8. [Kolmogorov-Arnold for Autonomous Underwater Vehicles](https://github.com/capriele/ANN_KAN) (published)  
+  
 7. [IS-sat: an inductive synthesis approach for fault-tolerant control laws](https://github.com/AndreaPuffo/IS-sat) (published)  
 
 
